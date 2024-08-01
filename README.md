@@ -1,0 +1,2 @@
+# macfiles
+dotfiles for mac
