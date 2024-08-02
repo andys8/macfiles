@@ -1,9 +1,3 @@
 # macfiles
 
-dotfiles for mac
-
-## Scroll direction
-
-```
-defaults write -g com.apple.swipescrolldirection -boolean NO
-```
+See <https://github.com/andys8/dotfiles/tree/mac>
